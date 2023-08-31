@@ -36,6 +36,7 @@ section{
     display: flex;
     width: fit-content;
     height: fit-content;
+
     animation-name: slide ;
     animation-duration: 5s;
     animation-iteration-count: infinite;
